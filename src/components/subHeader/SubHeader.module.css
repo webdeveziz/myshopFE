@@ -1,0 +1,134 @@
+.subHeader {
+  padding: 20px 0 20px 20px;
+  /* background: #343f51; */
+  background: url('../../assets/img/subheader5.jpg') repeat center center;
+  color: #fff;
+  grid-area: subHeader;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.subHeader .item {
+  margin-right: 10px;
+}
+
+
+.search {
+  display: flex;
+  margin-left: 262px;
+  position: relative;
+}
+
+.searchIcon {
+position: absolute;
+  top: 11px;
+  cursor: pointer;
+  left: 11px;
+  width: 17px;
+  height: 17px;
+}
+
+.closeIcon{
+position: absolute;
+  top: 11px;
+  cursor: pointer;
+  right: 13px;
+  width: 13px;
+  height: 13px;
+}
+
+.search input::placeholder {
+  font-size: 13px;
+}
+.search input {
+  width: 400px;
+  height: 35px;
+  font-size: 17px;
+  padding: 5px 40px;
+  color: #343f51;
+  outline: none;
+  border: none;
+  border-radius: 30px;
+  transition: all 0.3s linear;
+}
+
+
+
+/* bookmark */
+
+.bookmark {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* BACKGROUND: rgb(255, 255, 255); */
+  height: 60px;
+  padding: 3px 10px;
+top: 9px;
+  right: 10px;
+}
+
+.bookmarkFav {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.bookmarkFavCount{
+  position: absolute;
+  top: -15px;
+  right: -6px;
+  padding: 2px;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 13px;
+  background: red;
+  width: 20px;
+    display: flex;
+    height: 20px;
+    text-align: center;
+    line-height: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bookmarkFav img{
+  width: 25px;
+  height: 25px;
+  background: transparent;
+}
+
+/* cart icon  */
+
+.cartIcon {
+margin-left: 20px;
+position: relative;
+}
+
+.cartIcon a {
+padding: 3px;
+}
+
+.cartIcon a img {
+width: 30px;
+height: 30px;
+}
+
+.cartIconCount{
+  position: absolute;
+  top: -12px;
+  right: -7px;
+  padding: 2px;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 12px;
+  background: red;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

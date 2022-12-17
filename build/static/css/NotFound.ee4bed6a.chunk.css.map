@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/NotFound.ee4bed6a.chunk.css","mappings":"AAAA,0BACE,YAAa,CAEf,iBACA,CAEA,+BACE,cACF","sources":["components/notFaund/NotFound.module.css"],"sourcesContent":[".notFound {\r\n  padding: 20px;\r\n\r\ntext-align: center;\r\n}\r\n\r\n.notFound span {\r\n  font-size: 33px;\r\n}"],"names":[],"sourceRoot":""}

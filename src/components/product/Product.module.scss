@@ -1,0 +1,151 @@
+.product {
+  padding:  10px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  background-color: #343f51;
+}
+
+.productCat {
+  font-size: 14px;
+  margin-bottom: 15px;
+  color: bisque;
+  font-family: monospace;
+
+}
+
+.productCat a {
+  color: bisque;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.productRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.productCol1 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+
+.productCol {
+  display: flex;
+  flex-direction: column;
+}
+
+.productImage {
+  width: 400px;
+  border-radius: 10px;
+  height: 400px;
+  box-shadow: 5px 13px 16px;
+}
+
+.productTitle {
+  font-size: 22px;
+}
+
+.productDesc {
+  color: beige;
+  line-height: 27px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.productPrice {
+  margin-bottom: 12px;
+  width: 100px;
+  background: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 18px;
+  color: black;
+}
+
+.productRating {
+  background: #fff;
+  display: flex;
+  padding: 5px 10px;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  width: 200px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.productAlso {
+font-size: 22px;
+  margin-top: 30px;
+  color: #343f51;
+  margin-bottom: -53px;
+  text-shadow: 0px 0px 0px rgb(0 0 0);
+  border-bottom: 2px solid grey;
+}
+
+.productBuy {
+  text-align: center;
+  font-size: 17px;
+  width: 200px;
+  height: 30px;
+  background: #343f51;
+  color: #fff;
+  margin-top: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid lime;
+  transition: all 0.2s;
+}
+
+.productBuy:hover {
+  background-color: #5c6574;
+  border-color: #343f51;
+}
+
+.productBack {
+  text-align: center;
+  font-size: 17px;
+  box-shadow: 2px 3px 4px;
+  border: none;
+  width: 150px;
+  height: 30px;
+  background: #343f51;
+  color: #fff;
+  margin-top: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.productBack:hover {
+  box-shadow: 1px 5px 5px;
+}
+.btn button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid grey;
+  width: 150px;
+  height: 44px;
+  font-size: 18px;
+  border-radius: 50px;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  margin-top: 20px;
+  transition: all 0.3s linear;
+}
+
+.btn button:hover {
+  background: #343f51;
+  color: #fff;
+}
+
+.btn button:focus {
+  background: #455b7e;
+  color: rgb(219, 214, 214);
+}

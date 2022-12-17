@@ -1,0 +1,50 @@
+.header {
+  padding: 20px;
+  background: #343f51;
+  background: url('../../assets/img/subheader3.jpg') repeat;
+  color: #fff;
+  grid-area: header;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.logo img {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social img {
+  width: 20px;
+}
+
+.social span {
+  margin-left: 10px;
+}
+
+.log {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}
+.logItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  text-decoration: none;
+
+}
+.logItems img{
+  width: 21px;
+  margin-right: 5px;
+}

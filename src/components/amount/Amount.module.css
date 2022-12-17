@@ -1,0 +1,21 @@
+.amount {
+  display: flex;
+  margin-left: 10px;
+}
+
+.amount span {
+  font-size: 20px;
+  line-height: 1;
+  color: grey;
+  font-weight: 600;
+}
+
+.amount span .count {
+  color: green;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 3px 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}

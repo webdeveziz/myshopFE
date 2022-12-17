@@ -1,0 +1,9 @@
+.notFound {
+  padding: 20px;
+
+text-align: center;
+}
+
+.notFound span {
+  font-size: 33px;
+}

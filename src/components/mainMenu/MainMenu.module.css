@@ -1,0 +1,27 @@
+.mainMenu{
+  margin-bottom: 25px;
+}
+
+.menuTitle {
+  font-size: 22px;
+  margin-top: 25px;
+  margin-bottom: 14px;
+  
+}
+
+.item a {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 18px;
+    margin-bottom: 7px;
+    color: chocolate;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+
+ .item a:hover {
+   color: rgb(234, 158, 104);
+ }

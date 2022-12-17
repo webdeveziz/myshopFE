@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da6f358b.css",
+    "main.js": "/static/js/main.1635b9ec.js",
+    "NotFound.css": "/static/css/NotFound.ee4bed6a.chunk.css",
+    "NotFound.js": "/static/js/NotFound.5b13ef41.chunk.js",
+    "static/media/cart.jpg": "/static/media/cart.a290ad67e7ae9b691c8c.jpg",
+    "static/media/subheader3.jpg": "/static/media/subheader3.829652cbe77377f28838.jpg",
+    "static/media/subheader5.jpg": "/static/media/subheader5.7b472079ff9a2f1d3ec9.jpg",
+    "static/media/adv.png": "/static/media/adv.89dd4a0b12cdcbc2af53.png",
+    "static/media/payloader.gif": "/static/media/payloader.7a8c0ab9208068153a2f.gif",
+    "static/media/instagram.png": "/static/media/instagram.53505072d690c460b44c.png",
+    "static/media/telegram.png": "/static/media/telegram.04c3d4028b28944f72b9.png",
+    "static/media/twitter.png": "/static/media/twitter.c6e48e60f856cb822273.png",
+    "static/media/youtube.png": "/static/media/youtube.ee9f21489b0269aede6f.png",
+    "static/media/bookmark.png": "/static/media/bookmark.543df352309ea3fff19f.png",
+    "static/media/signup.png": "/static/media/signup.d26ef7fcea435fac24d8.png",
+    "static/media/facebook.png": "/static/media/facebook.01a470d813915c298403.png",
+    "static/media/login.png": "/static/media/login.9a3f7aed02d03149538d.png",
+    "static/media/cart.png": "/static/media/cart.d237bfb76e628c79a673.png",
+    "static/media/valentine.png": "/static/media/valentine.eddf4e2a205c478bf7e1.png",
+    "index.html": "/index.html",
+    "main.da6f358b.css.map": "/static/css/main.da6f358b.css.map",
+    "main.1635b9ec.js.map": "/static/js/main.1635b9ec.js.map",
+    "NotFound.ee4bed6a.chunk.css.map": "/static/css/NotFound.ee4bed6a.chunk.css.map",
+    "NotFound.5b13ef41.chunk.js.map": "/static/js/NotFound.5b13ef41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6f358b.css",
+    "static/js/main.1635b9ec.js"
+  ]
+}

@@ -1,0 +1,68 @@
+.main {
+padding: 20px;
+background: url('../../assets/img/subheader5.jpg') repeat center center;
+color: #fff;
+grid-area: main;
+}
+
+
+.sort {
+display: flex;
+justify-content: end;
+margin-bottom: 15px;
+margin-top: -5px;
+}
+
+.sort{
+  position: relative;
+  height: 30px;
+  top: -8px;
+}
+
+.sortOption {
+  position: absolute;
+  right: 0;top: 0px;
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  min-height: 120px;
+  padding: 5px 10px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: chocolate;
+    border: 1px solid grey;
+      box-shadow: -4px 9px 23px rgb(0 0 0);
+}
+
+.sortOption.no {
+background-color: transparent;
+box-shadow: none;
+border: none;
+border-radius: 0;
+top: -10px;
+}
+
+.sortOpt {
+display: flex;
+flex-direction: column;
+}
+
+.displayN{
+  display: none;
+}
+
+.sortList{
+font-size: 18px;
+color: chocolate;
+font-weight: 600;
+cursor: pointer;
+padding: 6px;
+border: 1px solid grey;
+border-radius: 10px;
+margin-bottom: 12px;
+background-color: #fff;
+}
+.sortList:first-child{
+  margin-top: 10px;
+}
+
